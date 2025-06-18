@@ -1,6 +1,6 @@
 # 💫About Me :
-🎓 I'm currently pursuing a Master's in Computer Science at Syracuse University, where I’m exploring both the fundamentals and the future of tech.  
-💻 I’m actively working on full-stack web application development using React, Node.js, and MongoDB, alongside projects involving AWS and LLMs.  
+🎓 I'm currently pursuing a Master's in Computer Science at Syracuse University, exploring both the fundamentals and future of tech. 
+💻 I’m actively working on full-stack web application development using MERN Stack, alongside projects involving AWS and LLMs.  
 🚀 My interests span Machine Learning, Full-Stack Development, Cybersecurity, Computer Networking, and UX Development.  
 🛠️ I love building intelligent, secure, and user-friendly applications that solve real-world problems.  
 🤝 I’m open to collaborating on projects in AI/ML, secure cloud applications, and modern UI/UX experiences.  
