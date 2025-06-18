@@ -16,8 +16,11 @@
 
 ## 📚 Publications
 
-- 📄 **[OSINT Automation Application – IJSRCSEIT (IF: 7.254)](https://ijsrcseit.com/paper/CSEIT232551.pdf)**  
-- 📄 **[Car and House Price Prediction – IJAIR Vol. 8, Issue 4 (IX)](https://iaraedu.com/pdf/ijair-volume-8-issue-4-ix-october-december-2021.pdf)**
+[![📰 OSINT Automation – IJSRCSEIT](https://img.shields.io/badge/Published%20in-IJSRCSEIT-007ACC?style=for-the-badge&logo=bookstack&logoColor=white)](https://ijsrcseit.com/paper/CSEIT232551.pdf)  
+🔍 *An OSINT tool that automates data collection across 1,000+ sources to detect vulnerabilities. Impact Factor: 7.254*
+
+[![📊 Car & House Price Prediction – IJAIR](https://img.shields.io/badge/Published%20in-IJAIR-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://iaraedu.com/pdf/ijair-volume-8-issue-4-ix-october-december-2021.pdf)  
+🏠🚗 *Regression-based model for predicting car and house prices. R² scores: 0.95 & 0.92*
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Kini7686&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
