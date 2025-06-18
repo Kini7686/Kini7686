@@ -16,8 +16,10 @@
 
 ## 📚 Publications
 
-[![OSINT Automation](https://img.shields.io/badge/Paper-OSINT_Automation-blue?style=for-the-badge)](https://ijsrcseit.com/paper/CSEIT232551.pdf)
-[![Price Prediction](https://img.shields.io/badge/Paper-Car_&_House_Price_Prediction-blueviolet?style=for-the-badge)](https://iaraedu.com/pdf/ijair-volume-8-issue-4-ix-october-december-2021.pdf)
+| Title | Journal |
+|-------|---------|
+| 📄 [OSINT Automation Application](https://ijsrcseit.com/paper/CSEIT232551.pdf) | IJSRCSEIT (Impact Factor: 7.254) |
+| 📄 [Car & House Price Prediction](https://iaraedu.com/pdf/ijair-volume-8-issue-4-ix-october-december-2021.pdf) | IJAIR Vol. 8, Issue 4 |
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Kini7686&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
