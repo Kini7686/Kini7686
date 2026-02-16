@@ -46,8 +46,9 @@
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Kini7686&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kini7686&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kini7686&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,PullRequest,Stars,Followers)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
