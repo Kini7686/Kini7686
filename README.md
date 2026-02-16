@@ -26,7 +26,7 @@
 ☁️ Focus Areas: EC2, S3, DynamoDB, Lambda, API Gateway, IAM, CloudFormation, CI/CD, Monitoring (CloudWatch), Serverless Architecture, Secure Application Deployment
 
 
-[![AWS Academy Graduate – Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/c29fea9e-608a-4533-a9b4-396fc014e395/public_url)
+[![AWS Academy Graduate – Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/c29fea9e-608a-4533-a9b4-396fc014e395/public_url)
 
 📅 Issued: Jul 2022  
 ☁️ Focus Areas: Cloud Computing Concepts, Global Infrastructure, EC2, S3, RDS, VPC, IAM, Security Best Practices, Pricing Models, Billing & Cost Optimization, Shared Responsibility Model
