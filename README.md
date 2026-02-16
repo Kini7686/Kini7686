@@ -20,16 +20,17 @@
 
 ## 🏅 Certifications
 
-[![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]([YOUR_CREDLY_PUBLIC_LINK](https://www.credly.com/badges/025a62c2-18ee-4c63-9ec0-32d45373c1b6/public_url))
+[![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/025a62c2-18ee-4c63-9ec0-32d45373c1b6/public_url)
 
 📅 Issued: Nov 2024 | Expires: Nov 2028  
-☁️ Focus Areas: EC2, S3, DynamoDB, IAM, Serverless, Cloud-Native Development
+☁️ Focus Areas: EC2, S3, DynamoDB, Lambda, API Gateway, IAM, CloudFormation, CI/CD, Monitoring (CloudWatch), Serverless Architecture, Secure Application Deployment
 
 
-[![AWS Academy Graduate – Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]([YOUR_CERTIFICATE_LINK](https://www.credly.com/badges/c29fea9e-608a-4533-a9b4-396fc014e395/public_url))
+[![AWS Academy Graduate – Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/c29fea9e-608a-4533-a9b4-396fc014e395/public_url)
 
 📅 Issued: Jul 2022  
-☁️ Focus Areas: Cloud Concepts, Core AWS Services, Security & Pricing
+☁️ Focus Areas: Cloud Computing Concepts, Global Infrastructure, EC2, S3, RDS, VPC, IAM, Security Best Practices, Pricing Models, Billing & Cost Optimization, Shared Responsibility Model
+
 
 
 ## 📚 Publications
