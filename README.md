@@ -47,7 +47,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kini7686&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kini7686&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,PullRequest,Stars,Followers)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kini7686&theme=radical&column=4&margin-w=10&margin-h=10&title=Commits,Repositories,PullRequest,Stars,Followers,MultiLanguage)
+
 
 
 ### ✍️Random Dev Quote
