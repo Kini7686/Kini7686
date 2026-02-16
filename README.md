@@ -20,10 +20,17 @@
 
 ## 🏅 Certifications
 
-[![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/1e5fe440fd0d401fa793b08432dfc447)
+[![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]([YOUR_CREDLY_PUBLIC_LINK](https://www.credly.com/badges/025a62c2-18ee-4c63-9ec0-32d45373c1b6/public_url))
 
-📅 Issued: Nov 2024 | Valid Till: Nov 2028  
-☁️ Skills: AWS EC2, S3, DynamoDB, Serverless, IAM, Cloud Development
+📅 Issued: Nov 2024 | Expires: Nov 2028  
+☁️ Focus Areas: EC2, S3, DynamoDB, IAM, Serverless, Cloud-Native Development
+
+
+[![AWS Academy Graduate – Cloud Foundations](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]([YOUR_CERTIFICATE_LINK](https://www.credly.com/badges/c29fea9e-608a-4533-a9b4-396fc014e395/public_url))
+
+📅 Issued: Jul 2022  
+☁️ Focus Areas: Cloud Concepts, Core AWS Services, Security & Pricing
+
 
 ## 📚 Publications
 
